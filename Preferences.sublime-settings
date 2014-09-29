@@ -1,4 +1,5 @@
 {
+	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
@@ -8,32 +9,32 @@
 	"draw_minimap_border": true,
 	"enable_tab_scrolling": false,
 	"findreplace_small": true,
-	// "font_options": "subpixel_antialias",
 	"font_face": "Source Code Pro",
 	"font_options": [
-		"no_round"
+		"no_round",
+		"subpixel_antialias"
 	],
-	"font_size": 14,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages": [
 		"Vintage"
 	],
-	"match_brackets_content": false,
-	"match_selection": false,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"match_brackets_content": true,
+	"match_selection": true,
 	"match_tags": false,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"preview_on_click": false,
-	"scroll_past_end": false,
+	"scroll_past_end": true,
 	"scroll_speed": 5.0,
 	"show_full_path": false,
-	"sidebar_large": true,
+	"sidebar_small": true,
 	"tabs_medium": true,
 	"theme": "predawn-DEV.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"word_wrap": true
 }
